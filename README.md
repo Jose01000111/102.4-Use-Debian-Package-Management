@@ -1,6 +1,6 @@
-# 102.4-Use-Debian-Package-Management
+# 🖥️ 102.4-Use-Debian-Package-Management
 
-## Introduction
+## 🖧  Introduction
 I explored core package management tools in Debian 🐧. These tools are essential for Linux administrators and are heavily tested in the LPIC-1 exam. I focused on both manual .deb installs and working with APT repositories. 💻
 
 I’ve included some helpful links to guide you through the lab and for studying afterward:
