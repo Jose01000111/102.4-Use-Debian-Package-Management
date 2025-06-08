@@ -34,7 +34,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Viewing package dependencies
 
-## 4️⃣ Awareness of APT
+## 4️⃣ Awareness of APT 🌐
 🔹 Updating package lists from /etc/apt/sources.list
 
 🔹 Installing packages from remote repositories
