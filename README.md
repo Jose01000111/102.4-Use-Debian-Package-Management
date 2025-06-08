@@ -51,5 +51,5 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Viewing or editing the APT sources list
 
-## What I Learned
+## 📚 What I Learned
 This lab gave me practical experience in using Debian’s package tools to install, remove, troubleshoot, and inspect packages. I now feel confident using dpkg, apt-get, and apt-cache, and I understand how Debian manages both local and remote packages. 🧠📦
