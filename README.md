@@ -13,7 +13,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 ---
 
-## 1️⃣ Install, Upgrade, and Uninstall Debian Binary Packages📟
+### 1️⃣ Install, Upgrade, and Uninstall Debian Binary Packages📟
 🔹 Installing a local .deb file using dpkg
 
 🔹 Fixing broken dependencies after manual install
@@ -24,14 +24,14 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Purging a package (remove including config files)
 
-## 2️⃣📡 Find Packages Containing Specific Files or Libraries
+### 2️⃣📡 Find Packages Containing Specific Files or Libraries
 🔹 Checking which installed package owns a file
 
 🔹 Installing and updating apt-file for repo-wide searches
 
 🔹 Searching for the package that provides a specific file
 
-## 3️⃣ Obtain Package🗂️ Info: Version, Content, Dependencies, and Status
+### 3️⃣ Obtain Package🗂️ Info: Version, Content, Dependencies, and Status
 🔹 Listing all installed packages
 
 🔹 Showing full package information
@@ -42,7 +42,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Viewing package dependencies
 
-## 4️⃣ Awareness of APT 🌐
+### 4️⃣ Awareness of APT 🌐
 🔹 Updating package lists from /etc/apt/sources.list
 
 🔹 Installing packages from remote repositories
