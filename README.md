@@ -5,6 +5,14 @@ I explored core package management tools in Debian 🐧. These tools are essenti
 
 I’ve included some helpful links to guide you through the lab and for studying afterward:
 
+[]()
+
+[]()
+
+[]()
+
+---
+
 ## 1️⃣ Install, Upgrade, and Uninstall Debian Binary Packages📟
 🔹 Installing a local .deb file using dpkg
 
