@@ -5,7 +5,7 @@ I explored core package management tools in Debian 🐧. These tools are essenti
 
 I’ve included some helpful links to guide you through the lab and for studying afterward:
 
-[](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.4_Use_Debian_package_management)
+[102.4 Use Debian Package Management Exam Objective](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.4_Use_Debian_package_management)
 
 []()
 
