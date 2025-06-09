@@ -71,23 +71,35 @@ Creating your own Debian package is a fantastic hands-on intro to how packages a
 
 🔹 Searching for the package that provides a specific file
 
+![IfgLQsn](https://github.com/user-attachments/assets/0ee400c0-9b16-45ae-b1cb-1fdbf5af9127)
+
 ### 3️⃣ Obtain Package🗂️ Info: Version, Content, Dependencies, and Status
 
 🔹 Listing all installed packages
+
+![csk2QlO](https://github.com/user-attachments/assets/2dce98b5-1d01-410b-a2bd-9b2d1f327695)
 
 🔹 Showing full package information
 
 🔹 Checking the installation status of a package
 
+![JIKcQNB](https://github.com/user-attachments/assets/9861b0bf-6913-4eda-b72d-37cce4758cf9)
+
 ### 4️⃣ Awareness of APT 🌐
 
 🔹 Updating package lists from /etc/apt/sources.list
 
+![pG9XKOb](https://github.com/user-attachments/assets/132a6e8d-e051-4910-a7a6-864b249c7a31)
+
 🔹 Installing packages from remote repositories
+
+![fyXBDn9](https://github.com/user-attachments/assets/54ad2f65-fb69-48cf-aaeb-20c30042856b)
 
 🔹 Searching for packages by keyword
 
 🔹 Viewing or editing the APT sources list
+
+![drhDXxo](https://github.com/user-attachments/assets/0ba42f1b-8192-46af-a1e0-e805d23e8dcb)
 
 ## 📚 What I Learned
 This lab gave me practical experience in using Debian’s package tools to install, remove, troubleshoot, and inspect packages. I now feel confident using dpkg, apt-get, and apt-cache, and I understand how Debian manages both local and remote packages. 🧠📦
