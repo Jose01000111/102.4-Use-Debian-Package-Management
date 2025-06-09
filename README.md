@@ -9,7 +9,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [LPIC 102.4 NOTES]()
 
-[LPIC 102.4 LAB]()
+[LPIC 102.4 LAB](https://1drv.ms/w/c/354f1c8d534fbced/ES8_Htw7HXdPi0U3FYU3MH4BMxOQVcrmNRTtZKnv3fRWHg?e=KfthDA)
 
 ---
 
