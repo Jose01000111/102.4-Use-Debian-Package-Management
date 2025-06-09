@@ -45,24 +45,34 @@ Creating your own Debian package is a fantastic hands-on intro to how packages a
 
 🔹 Fixing broken dependencies after manual install
 
-![oA7qo6A](https://github.com/user-attachments/assets/1f262baf-884b-4fd2-a0ba-ea0d16a77382)
+![H69F6zk](https://github.com/user-attachments/assets/031d63f5-ee8a-49d7-83b5-e6a456e0dedd)
 
 🔹 Upgrading installed packages using APT
 
-
+![mw59xUx](https://github.com/user-attachments/assets/f0d4f176-b83c-4e09-91f5-c288dbb87c7a)
 
 🔹 Removing a package without config files
 
+![SMtXUuS](https://github.com/user-attachments/assets/7a815aad-fc82-4cc9-bfcd-e6c08b5109e5)
+
 🔹 Purging a package (remove including config files)
 
+![DJJ9RjB](https://github.com/user-attachments/assets/0b1078fc-b047-4436-a0f3-21ae49e265db)
+
 ### 2️⃣📡 Find Packages Containing Specific Files or Libraries
+
 🔹 Checking which installed package owns a file
 
+![3mCX24d](https://github.com/user-attachments/assets/f5462cdd-501f-4d93-b54c-6c82be81b001)
+
 🔹 Installing and updating apt-file for repo-wide searches
+
+![xvfiHh1](https://github.com/user-attachments/assets/837f8ba1-d6c0-43db-9431-27afd226b43c)
 
 🔹 Searching for the package that provides a specific file
 
 ### 3️⃣ Obtain Package🗂️ Info: Version, Content, Dependencies, and Status
+
 🔹 Listing all installed packages
 
 🔹 Showing full package information
