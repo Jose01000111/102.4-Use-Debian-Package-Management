@@ -7,7 +7,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [102.4 Use Debian Package Management Exam Objective](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.4_Use_Debian_package_management)
 
-[LPIC 102.4 NOTES]()
+[LPIC 102.4 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EVSlMW61sa9PhwG3dK3GJHUBR0tbg7uJur71G0rsKtJC-Q?e=kUvEpv)
 
 [LPIC 102.4 LAB](https://1drv.ms/w/c/354f1c8d534fbced/ES8_Htw7HXdPi0U3FYU3MH4BMxOQVcrmNRTtZKnv3fRWHg?e=KfthDA)
 
